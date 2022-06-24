@@ -1,0 +1,21 @@
+body{
+  background-color: #86109b;
+  font-size: 20px;
+}
+.logo{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.container{
+  display: block;
+  margin-left: 30rem;
+  margin-right:30rem ;
+}
+.input-text{
+  margin-left: auto;
+  margin-right: auto;
+}
+.list{
+  background-color: white;
+}
